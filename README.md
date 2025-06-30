@@ -6,7 +6,9 @@
 
 **SparseFusion** is an open-source, "from-scratch" implementation of a Mixture-of-Experts (MoE) based Visual Language Model (VLM). 
 
-This repository builds upon an existing "from-scratch" SeeMOE codebase (by AviSoori1x). The project's core focus is on exploring and implementing advanced concepts within MoE systems and optimizing the VLM for practical experimentation. Through this work, the goal is to deepen the understanding and practical implementation of MoE mechanics, VLM fusion, and efficient deep learning practices, especially when operating under resource constraints.
+This repository builds upon an existing "from-scratch" SeeMOE codebase (by [AviSoori1x](https://github.com/AviSoori1x/seemore)). The project's core focus is on exploring and implementing advanced concepts within MoE systems and optimizing the VLM for practical experimentation. Through this work, the goal is to deepen the understanding and practical implementation of MoE mechanics, VLM fusion, and efficient deep learning practices, especially when operating under resource constraints.
+
+📦 **Available on HuggingFace Hub:** [![Hugging Face](https://img.shields.io/badge/HF%20Model-SparseFusion-blue?logo=huggingface)](https://huggingface.co/Aptheos/sparsefusion)
 
 ## ✨ Key Features & Implementations
 
