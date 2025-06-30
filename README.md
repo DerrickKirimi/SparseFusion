@@ -135,7 +135,11 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📧 Contact
 
-[https://www.linkedin.com/in/derrick-kirimi-22a470175/]
+**Derrick Kirimi**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/derrick-kirimi-22a470175/)  
+- 🧠 [HuggingFace](https://huggingface.co/Aptheos)  
+- 💻 [GitHub](https://github.com/DerrickKirimi)
+
 
 ## 🙏 Acknowledgements
 
