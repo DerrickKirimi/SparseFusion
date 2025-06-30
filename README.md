@@ -123,14 +123,6 @@ This project serves as a platform for hands-on experimentation and analysis of M
 
 This project is shared for educational and research purposes. If you'd like to use or contribute to it, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/derrick-kirimi-22a470175/).
 
-## 📧 Contact
-
-**Derrick Kirimi**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/derrick-kirimi-22a470175/)  
-- 🧠 [HuggingFace](https://huggingface.co/Aptheos)  
-- 💻 [GitHub](https://github.com/DerrickKirimi)
-
-
 ## 🙏 Acknowledgements
 
 * Inspired by the "from-scratch" SeeMOE implementation by [AviSoori1x](https://github.com/AviSoori1x/seemore), which served as a foundational learning resource.
