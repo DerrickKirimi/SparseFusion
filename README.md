@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📧 Contact
 
-Your Name – [Your GitHub Profile Link] – [Your LinkedIn Profile Link]
+[https://www.linkedin.com/in/derrick-kirimi-22a470175/]
 
 ## 🙏 Acknowledgements
 
