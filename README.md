@@ -89,7 +89,7 @@ This section details how to set up the project and begin experimentation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/DerrickKirimi/SparseFusion.git](https://github.com/DerrickKirimi/SparseFusion.git) 
+    git clone https://github.com/DerrickKirimi/SparseFusion.git 
     cd SparseFusion
     ```
 2.  **Create a virtual environment (recommended):**
@@ -119,19 +119,9 @@ This project serves as a platform for hands-on experimentation and analysis of M
 * **Expert Load Visualization:** Developing tools to interpret expert utilization patterns and token routing dynamics.
 * **Multimodal Fusion Diagnostics:** Tracing attention and token flow to gain insights into cross-modal interactions within the VLM.
 
-## 🤝 Contributing
-
-This project is open to contributions. If you have suggestions or wish to contribute to these explorations, please:
-
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/new-exploration`).
-3.  Commit your changes (`git commit -m 'Explore new concept X'`).
-4.  Push to the branch (`git push origin feature/new-exploration`).
-5.  Open a Pull Request with a clear description of your explorations or implementations.
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is shared for educational and research purposes. If you'd like to use or contribute to it, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/derrick-kirimi-22a470175/).
 
 ## 📧 Contact
 
